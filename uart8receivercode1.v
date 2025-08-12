@@ -70,4 +70,5 @@ module uart8receiver (
             endcase
         end
     end
+
 endmodule
