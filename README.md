@@ -1,3 +1,6 @@
+**Project Completed:** november 2024  
+**Uploaded to GitHub:** August 2025
+
 Design and Implement UART Receiver using Verilog
 📌 Project Overview
 This project implements an 8-bit UART Receiver using Verilog HDL on the Altera Cyclone II FPGA board.
